@@ -24,7 +24,9 @@ end
 
 def array_literal_matrix
   array_literal_matrix = [
-    []]
+    []
+    ["Hal Incandenza", "Lyle", "Gerhard Schtitt", "Mario Incandenza", "Michael Pemulis"]
+    ]
 end
 
 def matrix_lookup(matrix, row, column)
