@@ -28,6 +28,7 @@ def array_literal_matrix
     ["Hal Incandenza", "Lyle", "Gerhard Schtitt", "Mario Incandenza", "Michael Pemulis"]
     ]
   array_literal_matrix.sort 
+  array_literal_matrix
 end
 
 def matrix_lookup(matrix, row, column)
